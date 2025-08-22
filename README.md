@@ -1,4 +1,8 @@
 <!-- Banner animado: Texto con typing effect -->
+
+![Static Badge](https://img.shields.io/badge/Juan-Manuel)
+
+
 <p align="center">
   <img src="https://png.pngtree.com/png-vector/20250512/ourlarge/pngtree-hyper-realistic-robot-design-with-high-tech-aesthetic-and-glowing-lights-png-image_16227151.png
     font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hola!+Soy+Desarrollador+Web;Frontend+%7C+Backend+%7C+Fullstack;Bienvenido+a+mi+perfil+de+GitHub!+%F0%9F%91%8B"  />
@@ -121,15 +125,7 @@
 
 - Trabajar en un equipo remoto ✓
 
- ##
-
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-
-  ##
+##
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
