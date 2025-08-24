@@ -10,7 +10,7 @@
   🎯 Me motiva convertir las `ideas`, en soluciones que brinden los resultados deseado.<br>
   📚 Actualmente estoy `investigando` sobre desarrollo en la nube ☁️.<br>
   🌍 Busco `oportunidades` para colaborar en proyectos innovadores, remotos o presenciales.<br>
-  ⚡ Curiosidad `geek`: automatizo tareas con `Python`
+  ⚡ Curiosidad `geek`: automatizo tareas con `Python`<br>
   💥 Me gusta la `ciencia`, la `tecnología` y jugar al `fútbol`.
   <br><br>
   
