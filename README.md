@@ -28,11 +28,11 @@
 <br>
 <p align="center">
   <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaSript-Creador_de_tareas&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Creador_de_tareas&theme=radical&hide_border=true" />
   </a>
   
-  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaSript-Creador_de_tareas&theme=radical&hide_border=true" />
+  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Ahorcado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true" />
   </a>
 </p>
 
