@@ -1,9 +1,8 @@
-<!-- Banner de portada -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)"></a>
 </p>
 
-<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre Mi</h1>
+# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre Mi
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
    <br>
   👨‍💻 Me gusta desarrollar páginas web con enfoques en el diseño `atractivo`, `moderno` y `responsivo`.<br>
@@ -37,8 +36,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true&layout=compact" />
   </a>
 </p>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
