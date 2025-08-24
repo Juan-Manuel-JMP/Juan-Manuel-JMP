@@ -24,18 +24,19 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Algunos Proyectos
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Algunos Proyectos
 <br>
-<p align="center">
-<a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">  
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel/JMP&repo=proyecto1](https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas)&theme=radical&hide_border=true" /> 
-</a>
 
-<a href="https://github.com/TUUSUARIO/proyecto2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=proyecto2&theme=radical&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaSript-Creador_de_tareas&theme=radical&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaSript-Creador_de_tareas&theme=radical&hide_border=true" />
+  </a>
 </p>
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
