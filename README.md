@@ -139,15 +139,15 @@ echo obtenerFrase();
 
 | Contactos |
 |----------|
-| 
+
 <a href="mailto:jm.juanma.777@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="32"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://wa.me/5491123456789" target="_blank">
+<a href="https://wa.me/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="32"/>
 </a>
-|
+
 
 ------
 
