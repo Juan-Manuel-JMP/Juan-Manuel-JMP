@@ -42,8 +42,8 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Qué me diferencia***
 ```
 			✔️ Código limpio y escalable.  
-		✔️ Interfaces modernas y **UX amigable**.  
-	✔️ Enfoque en **performance y seguridad**.  
+		✔️ Interfaces modernas y UX amigable.  
+	✔️ Enfoque en performance y seguridad.  
 ✔️ Documentación clara para que tu proyecto sea profesional.
 
 ```
