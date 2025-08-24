@@ -27,11 +27,11 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Algunos Proyectos
 <br>
 <p align="center">
-  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Creador_de_tareas">
+  <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Creador_de_tareas&theme=radical&hide_border=true" />
   </a>
   
-  <a href="https://github.com/Juan-Manuel-JMP/JavaSript-Ahorcado">
+  <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true" />
   </a>
 </p>
