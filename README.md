@@ -27,9 +27,6 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Algunos Proyectos
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Algunos Proyectos
-<br>
-
 <p align="center">
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Creador_de_tareas&theme=radical&hide_border=true&layout=compact" />
