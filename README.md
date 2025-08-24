@@ -49,7 +49,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🔎Busca las Palabras de Tecnología
+## 🔎Busca las Palabras...
 
 	| S | E | U | Q | D | R | V | T | P | X | R | S | C |
 	| A | D | V | L | D | X | I | E | N | X | F | K | M | 
