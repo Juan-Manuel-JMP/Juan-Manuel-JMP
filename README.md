@@ -49,37 +49,37 @@
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🔎***Encuentra las Palabras sobre Tecnología***
+## 🔎***Busca las Palabras sobre Tecnología***
 
-	| S | E | U | Q | D | R | V | T | P | X | R | S | C | A | R | V | C | B |
-	| A | D | V | L | D | X | I | E | N | X | F | K | M | Ñ | N | U | L | J | 
-	| R | A | I | R | T | R | R | R | A | Ñ | A | L | O | R | I | T | M | O | 
-	| O | L | O | S | V | U | U | A | V | P | Ñ | C | E | N | O | V | P | J |
-	| D | N | P | R | E | I | S | W | E | R | E | S | P | O | N | S | I | V | 
-	| A | O | M | Q | G | Ñ | I | T | G | G | X | V | G | L | I | I | G | L | 
-	| T | I | S | Ñ | Ñ | P | O | F | A | F | I | B | A | P | R | O | G | R |
-	| U | X | R | S | M | K | O | O | D | N | V | P | S | B | P | U | D | K | 
-	| P | E | E | O | D | S | P | S | O | Ñ | C | O | D | U | J | E | P | U | 
-	| M | N | D | T | W | I | F | I | R | D | V | Q | E | G | P | P | Q | L |  
-	| O | O | M | A | H | M | S | P | O | M | D | L | O | S | R | M | A | O | 
-	| C | C | A | D | P | R | P | A | S | W | E | B | D | F | C | V | I | R |
+	| S | E | U | Q | D | R | V | T | P | X | R | S | C |
+	| A | D | V | L | D | X | I | E | N | X | F | K | M | 
+	| R | A | I | R | T | R | R | R | A | Ñ | A | L | O | 
+	| O | L | O | S | V | U | U | A | V | P | Ñ | C | E |
+	| D | N | P | R | E | I | S | W | E | R | E | S | P | 
+	| A | O | M | Q | G | Ñ | I | T | G | G | X | V | G |
+	| T | I | S | Ñ | Ñ | P | O | F | A | F | I | B | A |
+	| U | X | R | S | M | K | O | O | D | N | V | P | S |
+	| P | E | E | O | D | S | P | S | O | Ñ | C | O | D | 
+	| M | N | D | T | W | I | F | I | R | D | V | Q | E |   
+	| O | O | M | A | H | M | S | P | O | M | D | L | O | 
+	| C | C | A | D | P | R | P | A | S | W | E | B | D | 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🎯***Consejos Personales*** |💚|
 
-	═════════════════════════════════════════════════════
-		Sé Honesto ✔️
-			Busca Tu propia Felicidad ✔️
-				Esfuerzate y no te Rindas ✔️
-					Sé Paciente y Triunfarás  ✔️
-		  ═══════════════════════════════════════════════════
+    ═════════════════════════════════
+	  Sé Honesto ✔️
+		Busca Tu propia Felicidad ✔️
+		   Esfuerzate y no te Rindas ✔️
+			 Sé Paciente y Triunfarás  ✔️
+		  ════════════════════════════════════
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-##  📬 ***Conéctate Conmigo*** 
+##   📬 ***Conéctate Conmigo*** 
 
 <p align="center">
   <a href="mailto:jm.juanma.777@gmail.com">
