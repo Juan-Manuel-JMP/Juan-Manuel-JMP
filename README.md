@@ -3,7 +3,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)"></a>
 </p>
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
+<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre Mi</h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
    <br>
   👨‍💻 Me gusta desarrollar páginas web con enfoques en el diseño `atractivo`, `moderno` y `responsivo`.<br>
