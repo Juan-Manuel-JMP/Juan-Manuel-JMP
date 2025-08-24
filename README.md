@@ -2,7 +2,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=30&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)"></a>
 </p>
 
-# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre Mi
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="50px">&nbsp;***Sobre MI***
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
    <br>
   👨‍💻 Me gusta desarrollar páginas web con enfoques en el diseño `atractivo`, `moderno` y `responsivo`.<br>
@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"> Tecnologías que uso
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">&nbsp;***Tecnologías que uso***
  <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,java,python,bootstrap,git,github,vscode,visual" />
@@ -24,7 +24,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Algunos Proyectos
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?" width="50px">&nbsp;***Algunos Proyectos***
 <br>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <b> 😉 Qué me diferencia </b>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Qué me diferencia***
 ```
 	✔️ Código limpio y escalable.  
 		✔️ Interfaces modernas y **UX amigable**.  
@@ -49,7 +49,7 @@
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <b> 🔎 Enfócate y Encuentra las Palabras Relacionadas con la Tecnología </b><br>
+## 🔎***Enfócate y Encuentra las Palabras Relacionadas con la Tecnología***
 
 	| S | E | U | Q | D | R | V | T | P | X | R | S | C | A | R | V | C | B |
 	| A | D | V | L | D | X | I | E | N | X | F | K | M | Ñ | N | U | L | J | 
@@ -67,7 +67,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <b>🎯 Consejos Personales |💚|</b>
+## 🎯***Consejos Personales*** |💚|
 
 	═════════════════════════════════════════════════════
 		Sé Honesto ✔️
@@ -79,7 +79,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-# <b>📬 Conéctate Conmigo </b> 
+##  📬 ***Conéctate Conmigo*** 
 
 <p align="center">
   <a href="mailto:jm.juanma.777@gmail.com">
@@ -96,7 +96,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <b>📑 Frase en Varios Lenguajes </b>
+## 📑 ***Frase en Varios Lenguajes***
 <img src="https://skillicons.dev/icons?i=js" /> 
    
  ```js
@@ -129,7 +129,7 @@ echo obtenerFrase();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <b> 🐍 Famosa Snake </b>
+## 🐍 ***Famosa Snake***
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
