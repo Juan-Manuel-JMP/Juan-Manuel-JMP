@@ -35,7 +35,12 @@
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true&layout=compact" />
   </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=Python-PacMan&theme=radical&hide_border=true&layout=compact" />
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
