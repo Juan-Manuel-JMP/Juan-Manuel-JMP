@@ -54,20 +54,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🔎Busca las Palabras...
-
-	| S | E | U | Q | D | R | V | T | P | X | R | S | C |
-	| A | D | V | L | D | X | I | E | N | X | F | K | M | 
-	| R | A | I | R | T | R | R | R | A | Ñ | A | L | O | 
-	| O | L | O | S | V | U | U | A | V | P | Ñ | C | E |
-	| D | N | P | R | E | I | S | W | E | R | E | S | P | 
-	| A | O | M | Q | G | Ñ | I | T | G | G | X | V | G |
-	| T | I | S | Ñ | Ñ | P | O | F | A | F | I | B | A |
-	| U | X | R | S | M | K | O | O | D | N | V | P | S |
-	| P | E | E | O | D | S | P | S | O | Ñ | C | O | D | 
-	| M | N | D | T | W | I | F | I | R | D | V | Q | E |   
-	| O | O | M | A | H | M | S | P | O | M | D | L | O | 
-	| C | C | A | D | P | R | P | A | S | W | E | B | D | 
+## 🔎 Sapere Aude...
+|J|U|A|N|M|A||||💚|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | | 😊 | | | | | | |   | 
+| |`D`|`I`|`S`|`E`|`Ñ`|`O`| | | |💕|
+|`R`| | |🎶| | | | |  | |  |
+|`E`| | |`C`|  |   |   | |🦁| |   |
+|`S`| | |`O`| | | | |   | |😁 |
+|`P`| |`S`|`O`|`F`|`T`|`W`|`A`|`R`|`E`|  |
+|`O`| | |`K`| | | | |   | | |
+|`N`| | |`I`| | | | | | | |
+|`S`|   |   |`E`|   |`B`|`Y`|`T`|`E`|`S`| |
+|`I`| | |`S`| | |`2`| | | | |
+|`V`| | | | | |`K`| | |[📸](https://github.com/Juan-Manuel-JMP/)| |
+|`O`| | | | | | | | | | |
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
