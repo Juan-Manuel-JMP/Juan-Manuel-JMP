@@ -156,7 +156,31 @@ echo obtenerFrase();
 
 
 ------
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ 									   @@
+@@   ❮(|~o.o~|)❯  				   					   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
 
+</h4>  
 <!-- Footer animado -->
 
 <p align="center">
@@ -164,6 +188,6 @@ echo obtenerFrase();
   <br>
   Créditos: <a href="https://github.com/Juan-Manuel-JMP/">JMP</a>  
   <br>
-  Última Edición: 23/08/2025
+  Última Edición: 27/08/2025
 </p>
 </div>
