@@ -30,11 +30,11 @@
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Creador_de_tareas&theme=radical&hide_border=true&layout=compact" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true&layout=compact" />
   </a>
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;
   <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=Python-PacMan&theme=radical&hide_border=true&layout=compact" />
   </a>
