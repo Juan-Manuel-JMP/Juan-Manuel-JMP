@@ -43,14 +43,11 @@
   &nbsp;&nbsp;&nbsp;
   
   <!-- PacMan -->
-  <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
-    <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/Python-PacMan/main/Captura%20de%20pantalla.png" alt="PacMan" width="200"/>
-  </a>
-  <br>
-  <b>PacMan</b>
-</p>
-
-
+<a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
+  <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/Python-PacMan/main/Captura%20de%20pantalla%20PacMan.png" alt="PacMan" width="200"/>
+</a>
+<br>
+<b>PacMan</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
