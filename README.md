@@ -24,15 +24,30 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Algunos Proyectos
+<h2>Algunos Proyectos</h2>
 
-<p align="center">
-
-| Creador de Tareas | Ahorcado | PacMan |
-|------------------|---------|--------|
-| <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas"><img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/main/Captura%20de%20pantalla.png" width="200"/></a> | <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado"><img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Ahorcado/main/Captura%20de%20pantalla.png" width="200"/></a> | <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan"><img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/Python-PacMan/main/Captura%20de%20pantalla%20PacMan.png" width="200"/></a> |
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
+        <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/main/Captura%20de%20pantalla.png" width="200"/>
+      </a>
+      <br><b>Creador de Tareas</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado">
+        <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Ahorcado/main/Captura%20de%20pantalla.png" width="200"/>
+      </a>
+      <br><b>Ahorcado</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
+        <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/Python-PacMan/main/Captura%20de%20pantalla%20PacMan.png" width="200"/>
+      </a>
+      <br><b>PacMan</b>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
