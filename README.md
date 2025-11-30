@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Ahorcado&theme=radical&hide_border=true&layout=compact" />
   </a>
    &nbsp;&nbsp;
-  <a href="https://github.com/Juan-Manuel-JMP/Python-PacMan">
+  <a href="[https://github.com/Juan-Manuel-JMP/Python-PacMan](https://github.com/Juan-Manuel-JMP/Python-PacMan)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=Python-PacMan&theme=radical&hide_border=true&layout=compact" />
   </a>
 </p>
