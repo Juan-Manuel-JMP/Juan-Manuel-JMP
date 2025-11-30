@@ -26,7 +26,6 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?" width="50px">&nbsp;Algunos Proyectos
 <br>
-
  <p align="center">
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=JavaScript-Creador_de_tareas&theme=radical&hide_border=true&layout=compact" />
@@ -40,7 +39,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Manuel-JMP&repo=Python-PacMan&theme=radical&hide_border=true&layout=compact" />
   </a>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
