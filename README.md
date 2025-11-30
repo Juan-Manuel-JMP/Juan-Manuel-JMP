@@ -27,9 +27,10 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px">&nbsp;Algunos Proyectos
 <p align="center">
   <!-- Creador de Tareas -->
-  <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
-    <img src="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/blob/main/Captura%20de%20pantalla.png)" alt="Creador de Tareas" width="200"/>
-  </a>
+ <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
+  <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/main/Captura%20de%20pantalla.png" alt="Creador de Tareas" width="200"/>
+</a>
+
   &nbsp;&nbsp;
   <!-- Ahorcado -->
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Ahorcado">
