@@ -28,7 +28,7 @@
 <p align="center">
   <!-- Creador de Tareas -->
   <a href="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas">
-    <img src="https://raw.githubusercontent.com/Juan-Manuel-JMP/JavaScript-Creador_de_tareas/main/screenshot.png" alt="Creador de Tareas" width="200"/>
+    <img src="https://github.com/Juan-Manuel-JMP/JavaScript-Creador_de_Tareas/blob/main/Captura%20de%20pantalla.png)" alt="Creador de Tareas" width="200"/>
   </a>
   &nbsp;&nbsp;
   <!-- Ahorcado -->
