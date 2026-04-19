@@ -6,7 +6,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
    <br>
   👨‍💻 Me gusta desarrollar páginas web con enfoques en el diseño `atractivo`, `moderno` y `responsivo`.<br>
-  🎯 Me motiva convertir las `ideas`, en soluciones que brinden los resultados deseados.<br>
+  🎯 Me motiva convertir las `ideas`, en soluciones.<br>
   📚 Actualmente estoy `investigando` sobre desarrollo en la nube ☁️.<br>
   🌍 Busco `oportunidades` para colaborar en proyectos innovadores, remotos o presenciales.<br>
   ⚡ Curiosidad `geek`: automatizo tareas con `Python`<br>
