@@ -2,17 +2,6 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)""></a>
 </p>
 <div align="center">
-
-  <div style="position: relative;">
-
-    <img 
-      src="./images/fondo.png" 
-      width="100%" 
-      alt="Fondo"
-    />
-
-    <div align="center">
-
       <h2>
         <img 
           src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" 
@@ -20,7 +9,6 @@
         >
         &nbsp;Sobre Mí
       </h2>
-
       <p>
         👨‍💻 Me gusta desarrollar páginas web con enfoques en el diseño 
         <code>atractivo</code>, <code>moderno</code> y <code>responsivo</code>.
@@ -37,9 +25,7 @@
         💥 Me gusta la <code>ciencia</code>, la <code>tecnología</code> y jugar al
         <code>fútbol</code>.
       </p>
-
     </div>
-
   </div>
 
 </div>
