@@ -1,6 +1,13 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenidos!+Soy+Juan+Manuel..&hearts;+;Desarrollador-Web+Full-Stack;...(❁´◡`❁)""></a>
 </p>
+<p align="center">
+  <img 
+    src="./fondo_web.png" 
+    width="100%" 
+    alt="Juan Manuel - Full Stack Developer"
+  />
+</p>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif" width="50px">&nbsp;Sobre MI
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
